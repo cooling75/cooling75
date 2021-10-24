@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT, DevOps, Containerization, Virtualization, Site Reliability Engineering 
 - 🌱 I’m currently learning Kubernetes, AWS, SRE
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can contact me on twitter. @cooling75
+- 📫 You can contact me on twitter: [@cooling75](https://twitter.com/cooling75)
 
 <!---
 cooling75/cooling75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
