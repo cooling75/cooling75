@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cooling75 / Jan from :ger
+- 👋 Hi, I’m @cooling75 / Jan
 - 👀 I’m interested in IT, DevOps, Containerization, Virtualization, Site Reliability Engineering 
 - 🌱 I’m currently learning Kubernetes, AWS, SRE
 - 💞️ I’m looking to collaborate on ...
